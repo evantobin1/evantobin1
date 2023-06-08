@@ -5,7 +5,7 @@
 ### Coding Interests:
 
 - Game Development
-- Mobile Applications
+- Web/Desktop/Mobile App Development
 - IoT
 - AWS/Platform Development
 - Machine Learning
