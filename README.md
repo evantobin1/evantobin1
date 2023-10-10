@@ -4,11 +4,11 @@
 
 ### Coding Interests:
 
+- Embedded Systems/Firmware
 - Game Development
 - Web/Desktop/Mobile App Development
 - IoT
 - AWS/Platform Development
-- Machine Learning
 
 ### Other interests:
 
@@ -19,7 +19,7 @@
 ### Education:
 
 <img align="left" alt="CSUSM" width="26px" src="https://www.csusm.edu/communications/images/branding-images/spirit-logo02.jpg"/>
-3rd year - B.S. Computer Science at California State University San Marcos
+4th year - B.S. Computer Science at California State University San Marcos
 
 ### Socials:
 
@@ -48,15 +48,3 @@
 [linkedin]: https://www.linkedin.com/in/evan-tobin-666048235/
 
 > "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." -a wise man
-<!--
-**evantobin1/evantobin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-ere are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
