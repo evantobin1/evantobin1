@@ -14,7 +14,7 @@
 
 - Camping
 - Off-roading
-- Competetive Gaming
+- Competitive Gaming
 
 ### Education:
 
