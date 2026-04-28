@@ -12,7 +12,7 @@
 
 ### Education:
 
-<img align="left" alt="GTech" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg/200px-Georgia_Tech_Yellow_Jackets_logo.svg.png"/> M.S. Computer Science at Georgia Institute of Technology
+<img align="left" alt="GTech" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Georgia_Tech_Yellow_Jackets_logo.svg"/> M.S. Computer Science at Georgia Institute of Technology
 
 <img align="left" alt="CSUSM" width="36px" src="https://ugc.production.linktr.ee/HCkwfHrFQoGZ2YcUyRiK_9d5fa15a8747fcfbdcfeaeeae5f243e0.png"/> B.S. Computer Science at California State University San Marcos
 
